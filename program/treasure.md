@@ -31,4 +31,4 @@
 ## ヒント
 
 * <ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>は2秒ごとに<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>を出します（ゆっくり歩いてさがしましょう）
-* <ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>は見える場所にあります（<ruby>冷蔵庫<rp>(</rp><rt>れいぞうこ</rt><rp>)</rp></ruby>の中にはありません）
+* <ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>は見えるところにあります（<ruby>冷蔵庫<rp>(</rp><rt>れいぞうこ</rt><rp>)</rp></ruby>の中にはありません）
