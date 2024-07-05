@@ -15,7 +15,7 @@
 ## 作り方
 
 1. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>`名前`を作ります  
-2. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>`名前`を `" "` にするブロックは、<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby>ブロックの一番上のブロックを使います
+2. <ruby>変数<rp>(</rp><rt>へんすう</rt><rp>)</rp></ruby>`名前`を入れるブロックの<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby> `" "` は、<ruby>文字列<rp>(</rp><rt>もじれつ</rt><rp>)</rp></ruby>ブロックの一番上のブロックを使います
 
 <img width="250" src="./string.png">  
 
