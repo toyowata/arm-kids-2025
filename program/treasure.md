@@ -11,7 +11,7 @@
 <img width="400" src="./treasure.png">
 
 
-プロジェクト： https://makecode.microbit.org/_KtRWwp3F1iLH
+プロジェクト： https://makecode.microbit.org/_7jaDmW7juCAJ
 
 ## 作り方
 
@@ -32,3 +32,5 @@
 
 * <ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>は2秒ごとに<ruby>信号<rp>(</rp><rt>しんごう</rt><rp>)</rp></ruby>を出します（ゆっくり歩いてさがしましょう）
 * <ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>は見えるところにあります（<ruby>冷蔵庫<rp>(</rp><rt>れいぞうこ</rt><rp>)</rp></ruby>の中にはありません）
+* Bボタンを押すと<ruby>送信機<rp>(</rp><rt>そうしんき</rt><rp>)</rp></ruby>から音が出ます。近づくと音が大きくなります。
+
