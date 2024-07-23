@@ -5,7 +5,7 @@
 * [ピコピコマシーンを作ろう](./program/picopico.md)
 * [フラッシュ<ruby>暗算<rp>(</rp><rt>あんざん</rt><rp>)</rp></ruby>で遊ぼう](./program/calc.md)
 * [ひみつの<ruby>通信機<rp>(</rp><rt>つうしんき</rt><rp>)</rp></ruby>を作ろう](./program/ble.md)
-* [たからさがしゲームで遊ぼう](./program/treasure.md)
+* [送信機をさがせ！](./program/treasure.md)
 * [メロディーをならそう](./program/melody.md)
 * [もっとメロディーをならそう](./program/melody2.md)
 
