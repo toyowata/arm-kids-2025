@@ -11,7 +11,7 @@
 <img width="400" src="./treasure.png">
 
 
-プロジェクト： https://makecode.microbit.org/_7jaDmW7juCAJ
+プロジェクト： https://makecode.microbit.org/_T4uV8yUAb83a
 
 ## 作り方
 
