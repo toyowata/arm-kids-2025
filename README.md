@@ -1,4 +1,4 @@
-# Armキッズワークショップ 2024夏
+# Armキッズワークショップ 2025夏
 
 * [サイコロを作ろう](./program/dice.md)
 * [じしゃくの力をはかろう](./program/mag.md)
@@ -11,4 +11,4 @@
 
 
 ---
-Copyright 2024 (C) Team Arm, Arm K.K.
+Copyright 2025 (C) Team Arm, Arm K.K.
